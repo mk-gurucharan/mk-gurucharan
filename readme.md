@@ -25,7 +25,6 @@
 - Data Science 🚀
 - Python / MATLAB <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Image Processing 😬
-<br />
 <hr />
 
 ### Languages and Libraries
