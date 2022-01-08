@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I am Gurucharan Marthi Krishna Kumar
+# I am Gurucharan Marthi
 
 ### Interested in AI and its applications in the field of Neuroscience
 
